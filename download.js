@@ -22,6 +22,7 @@ Promise.all([
     'http://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/2488151/0/130150?v=1',
     'http://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/2639778/0/125740?v=1',
     'http://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/2417871/0/130328?v=1',
+    'https://d1du811ltzbmji.cloudfront.net/V2/bundles/v-636221742424823690-v/css/theme/base/Desktop?v=NSM4rOEyzl5DkzdQojzTaGcF6gJhUhrThatzm40DqyY1'
 ].map(x => download(x, 'cakeOriginImages'))).then(() => {
     console.log('files downloaded!');
 });
