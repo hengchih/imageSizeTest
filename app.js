@@ -1,7 +1,7 @@
 const imagemin = require('imagemin');
 const imageminMozjpeg = require('imagemin-mozjpeg');
 
-imagemin(['images/*.jpeg'], 'build/images', {
+imagemin(['cakeOriginImages/*.jpeg'], 'buildCakeOriginImages', {
     use: [imageminMozjpeg({
         quality: 50
     })]
