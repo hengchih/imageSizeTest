@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b85c8c-3ee3-49be-987a-85d5e78ba9b5" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/104119-1-60-2.jpeg" afterPath="$PROJECT_DIR$/build/失真壓縮品質-60%-59.2kb-寬765-高300.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/104119-1-60.jpeg" afterPath="$PROJECT_DIR$/build/失真壓縮品質-60%-59.2kb-寬765-高300-用CSS縮小.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/104119-1-80.jpeg" afterPath="$PROJECT_DIR$/build/失真壓縮品質-80%-59.2kb-寬765-高300.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/104119-1-loseless.jpeg" afterPath="$PROJECT_DIR$/build/不失真壓縮品質-208kb-寬765-高300.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/104119-1-lossy.jpeg" afterPath="$PROJECT_DIR$/build/失真壓縮品質-113kb-寬765-高300.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/110430-80.jpeg" afterPath="$PROJECT_DIR$/build/光暈效果-80%失真壓縮-47.79kb-寬1530-高600.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/110430-loseless.jpeg" afterPath="$PROJECT_DIR$/build/光暈效果-不失真壓縮-182.53kb-寬1530-高600.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/110430-losy.jpeg" afterPath="$PROJECT_DIR$/build/光暈效果-失真壓縮-86.40kb-寬1530-高600.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/104119-1.jpeg" afterPath="$PROJECT_DIR$/images/原圖-241kb-寬765-高300.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/104119-2.jpeg" afterPath="$PROJECT_DIR$/images/原圖-241kb-寬765-高300-用CSS縮小.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/104119-5-small.jpg" afterPath="$PROJECT_DIR$/images/不降品質縮小尺寸-77kb-寬300-高118.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/110430.jpeg" afterPath="$PROJECT_DIR$/images/光暈效果-268.06kb-寬1530-高600.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="63" column="55" lean-forward="true" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="55" />
+            <state relative-caret-position="202">
+              <caret line="50" column="44" lean-forward="true" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -312,12 +299,12 @@
       <workItem from="1487069251787" duration="492000" />
       <workItem from="1488428306195" duration="3764000" />
       <workItem from="1489557822557" duration="536000" />
-      <workItem from="1489571017403" duration="1415000" />
+      <workItem from="1489571017403" duration="1498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20329000" />
+    <option name="totallyTimeSpent" value="20412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
@@ -637,8 +624,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="63" column="55" lean-forward="true" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="55" />
+        <state relative-caret-position="202">
+          <caret line="50" column="44" lean-forward="true" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
